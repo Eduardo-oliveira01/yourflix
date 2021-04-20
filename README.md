@@ -1,0 +1,3 @@
+# Clone da interface da netflix :smile:
+
+Olá, esse é outro projeto finalizado dentro do bootcamp da DIO, onde criamos um clone da interface da netflix. Em meu projeto tive a iniciativa de modificá-lo e transformá-lo em uma espécie de "YOURFLIX", bom a ideia é a seguinte: como existe muitas pessoas utilizando o youtube para trabalho, a idéia principal é tirar a pessoa de dentro do youtube(acredito que ficar muito tempo pode acabar enjoando), e colocá-la dentro de outra plataforma onde possa optar pelas opções de cores, fontes para sempre estar mudando de acordo com seu gosto, então assim possa ver seus vídeos já editados para revisar, deixar os vídeos que ainda não deu tempo de editar e assim mandar dali diretamente para o youtube. 
