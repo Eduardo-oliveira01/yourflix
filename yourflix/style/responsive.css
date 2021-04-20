@@ -1,0 +1,22 @@
+/*Até no máximo na largura de 700px ficará com as 
+configurações definidas*/
+@media screen and (max-width:700px ) {
+    header .container{
+        display: flex;
+        flex-direction: column;
+    }
+
+    .filme-principal .botao{
+        margin-bottom: 10px;
+        padding: 20px;
+        width: 300px;
+    }
+}
+
+/*Inicia no 1000px essa configuração,
+ ou seja acima de 1000px*/
+@media screen and (min-width:1000px){
+    .descricao{
+        width: 50%;
+    }
+} 
